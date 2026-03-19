@@ -1,0 +1,8 @@
+# .gitignore
+#IGNORE VIRTUAL ENVIRONMENT
+venv/
+#IGNORE PYTHON CACHE FILES
+__pycache__/
+*.pyc
+# DATA FILES
+*.csv
